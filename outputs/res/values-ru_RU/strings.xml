@@ -1,0 +1,11 @@
+<resources>
+<string name="Error_000001">ошибка параметра инициализации</string>
+<string name="Error_000002">ошибка параметров игры</string>
+<string name="Error_000003">инициализация не завершена</string>
+<string name="pin_code_error">Ошибка кода авторизации</string>
+<string name="upload_download_error_param_null">Параметр пуст или имеет длину 0</string>
+<string name="upload_download_error_file_not_exists">файл не существует</string>
+<string name="upload_download_error_file_type_not_support">тип файла не поддерживается</string>
+<string name="upload_download_error_file_size_exceeds_the_limit">Превышен размер файла</string>
+<string name="upload_download_error_system_failure">системная ошибка</string>
+</resources>

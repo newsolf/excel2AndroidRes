@@ -1,0 +1,11 @@
+<resources>
+<string name="Error_000001">Bad initialization parameters</string>
+<string name="Error_000002">Bad game parameters</string>
+<string name="Error_000003">Initialization incomplete</string>
+<string name="pin_code_error">Authorization code error</string>
+<string name="upload_download_error_param_null">Parameter is null or zero-length</string>
+<string name="upload_download_error_file_not_exists">File does not exist</string>
+<string name="upload_download_error_file_type_not_support">File type is not supported</string>
+<string name="upload_download_error_file_size_exceeds_the_limit">File size exceeds the limit</string>
+<string name="upload_download_error_system_failure">System failure</string>
+</resources>
